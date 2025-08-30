@@ -32,5 +32,11 @@ Aprendimos a usar **condicionales** para ejecutar código según se cumplan cond
 ### Sesión 28: Funciones en JavaScript  
 Vimos qué son las **funciones**, su sintaxis básica, parámetros, alcance (scope) y el **retorno de valores**. También aprendimos sobre **arrow functions (ES6)**, y los distintos **roles de funciones**: normales, constructoras y de método.  
 
+### Sesión 29: Arrays y Bucles en JavaScript  
+Vimos **arrays** (estructuras ordenadas, indexables e iterables), cómo declararlos, acceder por índice y usar `.length`. Además, repasamos **bucles** (`for`, `while`, `do...while`) junto con operadores de incremento/decremento e iteración de arrays (recorrerlos e invertirlos).  
+
+### Sesión 30: Programación Orientada a Objetos en JavaScript  
+Vimos el paradigma de POO y cómo trabajar con **objetos en JavaScript**: estructura clave-valor, acceso con notación de punto o corchetes, actualización y creación de atributos, el concepto de **hoisting**, y el uso de **JSON** para almacenar datos en formato de objetos.
+
 ## Autor
 Fabiana Lázaro
