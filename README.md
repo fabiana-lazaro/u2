@@ -38,5 +38,14 @@ Vimos **arrays** (estructuras ordenadas, indexables e iterables), cómo declarar
 ### Sesión 30: Programación Orientada a Objetos en JavaScript  
 Vimos el paradigma de POO y cómo trabajar con **objetos en JavaScript**: estructura clave-valor, acceso con notación de punto o corchetes, actualización y creación de atributos, el concepto de **hoisting**, y el uso de **JSON** para almacenar datos en formato de objetos.
 
+### Sesión 31: Inteligencia Artificial aplicada a la Programación  
+Aprendimos cómo la **IA** puede apoyar en el desarrollo, especialmente para **detectar errores en el código**, proponer soluciones y ayudar a **revisar y optimizar programas** de manera más rápida y eficiente.  
+
+### Sesión 32: Programación Orientada a Objetos (POO)  
+Vimos los **principios de la POO**: encapsulación, abstracción, herencia y polimorfismo. Aprendimos a crear **clases** con atributos y métodos, a instanciar objetos con `new`, usar `this`, aplicar **encapsulamiento** con atributos privados, heredar con `extends` y modificar métodos mediante **polimorfismo**.  
+
+### Sesión 33: DOM en JavaScript  
+Aprendimos a trabajar con el **DOM** (Document Object Model), su estructura en **nodos** y cómo **seleccionar elementos** con `getElementById`, `getElementsByClassName`, `getElementsByTagName`, `querySelector` y `querySelectorAll`. Vimos cómo modificar contenido con `innerText`, escuchar **eventos** con `addEventListener`, y cambiar estilos dinámicamente mediante `style` o `classList`.  
+
 ## Autor
 Fabiana Lázaro
